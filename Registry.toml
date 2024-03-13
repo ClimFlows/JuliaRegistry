@@ -1,0 +1,5 @@
+name = "ClimFlowsRegistry"
+uuid = "9946f0f5-8370-471c-88e5-cd090a00034a"
+repo = "git@github.com:ClimFlows/JuliaRegistry.git"
+
+[packages]
