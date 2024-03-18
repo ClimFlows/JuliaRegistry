@@ -3,4 +3,5 @@ uuid = "9946f0f5-8370-471c-88e5-cd090a00034a"
 repo = "git@github.com:ClimFlows/JuliaRegistry.git"
 
 [packages]
+7bce7c31-0f61-4fd7-bdaf-6b04abfa2cc7 = { name = "CookBooks", path = "C/CookBooks" }
 9e5c175a-5132-4517-85a1-2957ec255f89 = { name = "SHTnsSpheres", path = "S/SHTnsSpheres" }
