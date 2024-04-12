@@ -1,2 +1,5 @@
 [0]
 MutatingOrNot = "6a37069a-9a67-4b2d-a34a-f09ab4b23c7c"
+
+["0.2-0"]
+PackageExtensionCompat = "65ce6f38-6b18-4e1d-a461-8949797d7930"
