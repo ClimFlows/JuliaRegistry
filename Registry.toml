@@ -10,3 +10,4 @@ repo = "git@github.com:ClimFlows/JuliaRegistry.git"
 79282218-dfaf-41aa-91df-a06f65ece871 = { name = "CFTimeSchemes", path = "C/CFTimeSchemes" }
 7bce7c31-0f61-4fd7-bdaf-6b04abfa2cc7 = { name = "CookBooks", path = "C/CookBooks" }
 9e5c175a-5132-4517-85a1-2957ec255f89 = { name = "SHTnsSpheres", path = "S/SHTnsSpheres" }
+f57ce217-a21f-4063-8e40-561e9bf56723 = { name = "ClimFlowsData", path = "C/ClimFlowsData" }
