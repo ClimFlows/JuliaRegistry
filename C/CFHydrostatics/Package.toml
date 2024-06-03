@@ -1,0 +1,3 @@
+name = "CFHydrostatics"
+uuid = "0dc8c93d-0116-402a-b00b-85ddfe5501a2"
+repo = "https://github.com/ClimFlows/CFHydrostatics.jl"
