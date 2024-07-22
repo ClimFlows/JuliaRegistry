@@ -1,0 +1,3 @@
+name = "CFMultigrid"
+uuid = "06215ad7-35ad-433d-8be4-57b5a2a542ba"
+repo = "git@github.com:ClimFlows/CFMultigrid.jl.git"
