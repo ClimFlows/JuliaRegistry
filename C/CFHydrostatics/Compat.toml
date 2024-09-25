@@ -31,7 +31,13 @@ ManagedLoops = "0.1.6-0.1"
 ["0.3-0"]
 MutatingOrNot = "0.1.2-0.1"
 
-["0.3.3-0"]
+["0.3.3"]
 CFDomains = "0.2.2-0.2"
 CFTransport = "0.1.3-0.1"
+
+["0.3.3-0"]
 ManagedLoops = "0.1.8-0.1"
+
+["0.3.4-0"]
+CFDomains = "0.2.4-0.2"
+CFTransport = "0.1.5-0.1"
