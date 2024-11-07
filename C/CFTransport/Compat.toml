@@ -14,6 +14,11 @@ CFDomains = "0.1.4-0.2"
 CFDomains = "0.2.4-0.2"
 ManagedLoops = "0.1.8-0.1"
 
+["0.1.6"]
+ManagedLoops = "0.1.11-0.1"
+
 ["0.1.6-0"]
 CFDomains = "0.3.3-0.3"
-ManagedLoops = "0.1.11-0.1"
+
+["0.1.7-0"]
+ManagedLoops = "0.1.13-0.1"
