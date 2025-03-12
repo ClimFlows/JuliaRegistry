@@ -4,6 +4,7 @@ repo = "git@github.com:ClimFlows/JuliaRegistry.git"
 
 [packages]
 06215ad7-35ad-433d-8be4-57b5a2a542ba = { name = "CFMultigrid", path = "C/CFMultigrid" }
+0684c073-ddb9-4fc7-87c8-9d6eef9b287e = { name = "JaxCall", path = "J/JaxCall" }
 0dc8c93d-0116-402a-b00b-85ddfe5501a2 = { name = "CFHydrostatics", path = "C/CFHydrostatics" }
 27b57071-4f7a-481a-ba32-ffa10dd904ac = { name = "CFShallowWaters", path = "C/CFShallowWaters" }
 3699aaca-035b-4155-96ec-eecb526248de = { name = "CFDomains", path = "C/CFDomains" }
