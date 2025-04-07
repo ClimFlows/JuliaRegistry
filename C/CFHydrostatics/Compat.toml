@@ -31,6 +31,9 @@ ClimFluids = "0.1.2-0.1"
 ["0.3-0.3.5"]
 MutatingOrNot = "0.1.2-0.1"
 
+["0.3.10-0"]
+CFTimeSchemes = "0.3.4-0.3"
+
 ["0.3.3"]
 CFDomains = "0.2.2-0.2"
 CFTransport = "0.1.3-0.1"
