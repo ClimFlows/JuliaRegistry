@@ -13,6 +13,6 @@ LightGraphs = "1"
 Metis = "1"
 StaticArrays = "1"
 
-["0.1.2-0"]
+["0.1.2-0.1"]
 GeoMakie = "0.6-0.7"
 Makie = "0.20-0.21"
