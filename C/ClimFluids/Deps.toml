@@ -4,3 +4,6 @@ MuladdMacro = "46d2c3a1-f734-5fdb-9937-b9b9aeba4221"
 
 ["0.1.1 - 0"]
 PackageExtensionCompat = "65ce6f38-6b18-4e1d-a461-8949797d7930"
+
+["0.1.4 - 0"]
+PolynomialRoots = "3a141323-8675-5d76-9d11-e1df1406c778"
