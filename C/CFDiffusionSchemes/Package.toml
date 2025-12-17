@@ -1,0 +1,3 @@
+name = "CFDiffusionSchemes"
+uuid = "c98386de-3084-4a91-9df5-5a8c5033d229"
+repo = "https://github.com/ClimFlows/CFDiffusionSchemes.jl"

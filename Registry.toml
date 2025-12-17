@@ -21,6 +21,7 @@ repo = "git@github.com:ClimFlows/JuliaRegistry.git"
 9e5c175a-5132-4517-85a1-2957ec255f89 = { name = "SHTnsSpheres", path = "S/SHTnsSpheres" }
 a33e4613-43be-4f0e-b500-138f013d70af = { name = "CFCompressible", path = "C/CFCompressible" }
 aafcb771-6be4-4a54-aeb4-fb9a94868d38 = { name = "CFTransport", path = "C/CFTransport" }
+c98386de-3084-4a91-9df5-5a8c5033d229 = { name = "CFDiffusionSchemes", path = "C/CFDiffusionSchemes" }
 d9671a99-3ca0-4253-904b-b84b72e7f5e1 = { name = "SimpleRadiativeTransfer", path = "S/SimpleRadiativeTransfer" }
 dd0979db-5334-4d13-8d2e-fa88a4f47f12 = { name = "ClimFlowsPlots", path = "C/ClimFlowsPlots" }
 f57ce217-a21f-4063-8e40-561e9bf56723 = { name = "ClimFlowsData", path = "C/ClimFlowsData" }
