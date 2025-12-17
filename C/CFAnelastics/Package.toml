@@ -1,0 +1,3 @@
+name = "CFAnelastics"
+uuid = "45b71fc6-fff6-4b4e-ba1f-6968b823c40d"
+repo = "https://github.com/ClimFlows/CFAnelastics.jl"
