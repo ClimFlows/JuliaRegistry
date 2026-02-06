@@ -17,8 +17,12 @@ ManagedLoops = "0.1.8-0.1"
 ["0.1.6"]
 ManagedLoops = "0.1.11-0.1"
 
-["0.1.6-0"]
+["0.1.6-0.1.7"]
 CFDomains = "0.3.3-0.3"
 
 ["0.1.7-0"]
 ManagedLoops = "0.1.13-0.1"
+
+["0.1.8-0"]
+CFDomains = "0.4"
+MutatingOrNot = "0.1.3-0.1"
