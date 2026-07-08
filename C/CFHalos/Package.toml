@@ -1,0 +1,3 @@
+name = "CFHalos"
+uuid = "11f5c586-ae9d-41ff-95cf-58eeca9ad25f"
+repo = "https://github.com/ClimFlows/CFHalos.jl"
