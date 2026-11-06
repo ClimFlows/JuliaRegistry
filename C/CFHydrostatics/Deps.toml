@@ -12,3 +12,6 @@ CFTransport = "aafcb771-6be4-4a54-aeb4-fb9a94868d38"
 
 ["0.2.1-0"]
 PackageExtensionCompat = "65ce6f38-6b18-4e1d-a461-8949797d7930"
+
+["0.5-0"]
+VoronoiSpheres = "75509e46-8d8c-4f7e-9072-0d95c5edd9e4"
