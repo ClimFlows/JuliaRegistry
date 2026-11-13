@@ -6,3 +6,6 @@ Mooncake = "da2b9cff-9c12-43a0-ae48-6db2b0edb7d6"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 SHTnsSpheres = "9e5c175a-5132-4517-85a1-2957ec255f89"
 SIMD = "fdea26ae-647d-5447-a871-4b548cad5224"
+
+["0.1.7-0"]
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
