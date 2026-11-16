@@ -73,6 +73,12 @@ CFDomains = "0.4"
 CFTransport = "0.1.8-0.1"
 
 ["0.5-0"]
-CFDomains = "0.5.1-0.5"
 CFTransport = "0.1.10-0.1"
+
+["0.5-0.5.3"]
+CFDomains = "0.5.1-0.5"
 VoronoiSpheres = "0.1.5-0.1"
+
+["0.5.5-0"]
+CFDomains = "0.5.3-0.5"
+VoronoiSpheres = "0.1.10-0.1"
